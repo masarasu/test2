@@ -5,7 +5,6 @@ test update
 ■githubの使い方
 リポジトリ作成
 
-
 echo "# test2" >> README.md
 git init
 git add README.md
